@@ -1,3 +1,8 @@
+![Alt text](btc.jpg)
+
+
+
+
 # Bitcoin Bruter  
 
 Bitcoin Bruter is a powerful tool designed to quickly generate Bitcoin wallets from a known set of **BIP-39** words, check their balances, and transfer any discovered BTC to your own wallet. This tool supports querying the Bitcoin blockchain via APIs or a local **Bitcoin Core daemon (`bitcoind`)**.
